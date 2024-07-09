@@ -29,13 +29,12 @@ It's Yejin, Android Developer 👋
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=yeyechu&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=50% />
-</a>-->
-<!-- [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username={깃헙 이름(string)}&count_private={프라이빗 레포 커밋 셀지말지(bool)}&custom_title={타이틀(string)}&bg_color={그라데이션 각도,색1,색2,...}&title_color={타이틀 색(hex)}&text_color={타이틀 색(hex)})](https://github.com/anuraghazra/github-readme-stats) -->
-<!--	 
+</a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeyechu&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 -->
+ <!-- [![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=yeyechu&count_private=true&custom_title={타이틀(string)}&bg_color={그라데이션 각도,색1,색2,...}&title_color={타이틀 색(hex)}&text_color={타이틀 색(hex)})](https://github.com/anuraghazra/github-readme-stats) -->
   </div>
 
 ## ETC
