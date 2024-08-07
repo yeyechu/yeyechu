@@ -1,10 +1,11 @@
 <div align=center>
-It's Yejin, Android Developer 👋
+It's Yejin👋
 </div>
 
 ## Android
 ### main
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 
 ![](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white)
@@ -13,7 +14,6 @@ It's Yejin, Android Developer 👋
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ### sub
-![](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white)
 
 ![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
